@@ -1,0 +1,19 @@
+{
+    "name": "donia-shaker/subscriptions",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "DoniaShaker\\Subscriptions\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Donia Shaker",
+            "email": "donia.shaker11@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "orchestra/testbench": "^9.0"
+    }
+}
